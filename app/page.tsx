@@ -130,8 +130,6 @@ export default function FuelCenterDashboard() {
       dispenser_open: dispenserOpen,
       dispenser_close: dispenserClose,
       rate_per_liter: formData.rate_per_liter,
-      dispenser_open: dispenserOpen,
-      dispenser_close: dispenserClose,
       units_sold: unitsSold,
       total_sale: totalSale,
     };
